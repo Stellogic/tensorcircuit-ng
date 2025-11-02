@@ -25,6 +25,8 @@
 
 <p align="center"> English | <a href="README_cn.md"> 简体中文 </a></p>
 
+我的贡献指南见：[CONTRIBUTION.md](CONTRIBUTION.md).
+
 TensorCircuit-NG is the next-generation open-source high-performance quantum software framework, built upon tensornetwork engines, supporting for automatic differentiation, just-in-time compiling, hardware acceleration, vectorized parallelism and distributed training, providing unified infrastructures and interfaces for quantum programming. It can compose quantum circuits, neural networks and tensor networks seamlessly with high simulation efficiency and flexibility.
 
 TensorCircuit-NG is built on top of modern machine learning frameworks: Jax, TensorFlow, and PyTorch. It is specifically suitable for large-scale simulations of quantum-classical hybrid paradigm and variational quantum algorithms in ideal, noisy, Clifford, approximate, analog and fermionic cases. It also supports quantum hardware access and provides CPU/GPU/QPU hybrid deployment solutions.
